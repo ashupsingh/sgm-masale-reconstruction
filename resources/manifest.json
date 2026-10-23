@@ -1,0 +1,16 @@
+[
+  {
+    "title": "React official learning guide",
+    "url": "https://react.dev/learn",
+    "retrieved": "2026-10-23",
+    "local_research_copy_sha256": "c70d3e82b3ca6036e35c54a72934156de98c0362dcb74c2caec66a5c93f2350a",
+    "publication_note": "Linked only; offline publisher copy retained locally, not redistributed."
+  },
+  {
+    "title": "Razorpay Node integration",
+    "url": "https://razorpay.com/docs/payments/server-integration/nodejs/integration-steps/",
+    "retrieved": "2026-10-23",
+    "local_research_copy_sha256": "85ed4a204a4dfc90e3e507a4941748d89355be861a50bab12a6a3ae9a1325b98",
+    "publication_note": "Linked only; offline publisher copy retained locally, not redistributed."
+  }
+]

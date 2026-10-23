@@ -1,0 +1,28 @@
+{
+  "id": "sgm-masale",
+  "name": "SGM Masale Website",
+  "category": "WebDev / E-commerce",
+  "group": "Web development",
+  "icon": "cpu",
+  "description": "Full-stack e-commerce website for SGM Masale - a spice manufacturing company (In Progress).",
+  "detail": "An e-commerce project in development. Planned functionality includes product browsing, shopping carts, order tracking, payment integration, and an administration dashboard. The listed stack includes planned technologies.",
+  "stack": [
+    "Next.js 14",
+    "React 18",
+    "TypeScript",
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "Razorpay",
+    "Tailwind CSS",
+    "NextAuth.js"
+  ],
+  "status": "In Progress",
+  "source": "https://reactportfolio-eosin.vercel.app/",
+  "image": "/projects/sgm_masale.webp",
+  "url": "",
+  "liveUrl": "",
+  "award": "",
+  "featured": false,
+  "evidence": []
+}
